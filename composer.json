@@ -1,16 +1,10 @@
 {
-    "name": "beelab/paypal-bundle",
+    "name": "terehinis/paypal-bundle",
     "type": "symfony-bundle",
     "description": "Simple bundle for Paypal integration",
     "keywords": ["Paypal", "payment"],
     "homepage": "https://github.com/bee-lab/",
     "license": "LGPL-3.0-or-later",
-    "authors": [
-        {
-            "name": "Massimiliano Arione",
-            "email": "massimiliano.arione@bee-lab.net"
-        }
-    ],
     "require": {
         "php": ">=7.0",
         "doctrine/orm": "^2.3",
